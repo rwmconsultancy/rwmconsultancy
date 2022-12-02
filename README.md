@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rob
-- 👀 I’m interested in Javascript, Node.Js, CSS, HTML, EJS, Handlebars, MongoDB etc. :)
+- 👀 I’m interested in Javascript, Node.Js, CSS, HTML, React, EJS, Handlebars, MongoDB etc. :)
 - 🌱 I’m currently learning all of the above :)
 - 💞️ I’m looking to collaborate on all interesting projects! For learning or business perspective!
 
